@@ -1,0 +1,9 @@
+{
+  "verifyFacilityCode": {
+    "status": "success",
+    "message": "Facility code verified successfully",
+    "data": {
+      "device_token": "mock_device_token_12345"
+    }
+  }
+}
