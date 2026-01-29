@@ -5,7 +5,6 @@ This script shows how to load and use the JSON data files.
 """
 
 import json
-import os
 
 def load_json_file(filename):
     """Load a JSON file from the current directory."""

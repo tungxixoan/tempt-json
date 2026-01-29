@@ -7,7 +7,7 @@
     "comment": "Great article! Very informative and well-written.",
     "rating": 5,
     "helpful": 12,
-    "createdAt": "2023-06-02T11:20:00Z"
+    "createdAt": "2025-06-02T11:20:00Z"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "comment": "Thanks for sharing these insights. I learned a lot!",
     "rating": 4,
     "helpful": 8,
-    "createdAt": "2023-06-02T15:45:00Z"
+    "createdAt": "2025-06-02T15:45:00Z"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "comment": "Excellent explanation of REST principles.",
     "rating": 5,
     "helpful": 15,
-    "createdAt": "2023-06-06T09:30:00Z"
+    "createdAt": "2025-06-06T09:30:00Z"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "comment": "Could you elaborate more on HATEOAS?",
     "rating": 4,
     "helpful": 3,
-    "createdAt": "2023-06-06T14:10:00Z"
+    "createdAt": "2025-06-06T14:10:00Z"
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "comment": "Very practical tips. I'll apply these in my projects.",
     "rating": 5,
     "helpful": 20,
-    "createdAt": "2023-06-11T10:15:00Z"
+    "createdAt": "2025-06-11T10:15:00Z"
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "comment": "The examples are really helpful!",
     "rating": 5,
     "helpful": 9,
-    "createdAt": "2023-06-12T08:25:00Z"
+    "createdAt": "2025-06-12T08:25:00Z"
   },
   {
     "id": 7,
@@ -67,7 +67,7 @@
     "comment": "Documentation is often overlooked. Good reminder!",
     "rating": 4,
     "helpful": 6,
-    "createdAt": "2023-06-21T13:40:00Z"
+    "createdAt": "2025-06-21T13:40:00Z"
   },
   {
     "id": 8,
@@ -77,6 +77,6 @@
     "comment": "What tools do you recommend for API documentation?",
     "rating": 4,
     "helpful": 11,
-    "createdAt": "2023-06-22T16:55:00Z"
+    "createdAt": "2025-06-22T16:55:00Z"
   }
 ]
