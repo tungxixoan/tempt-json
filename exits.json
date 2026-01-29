@@ -1,0 +1,6 @@
+{
+  "error": {
+    "code": "DEVICE_CODE_EXISTS",
+    "message": "Device code already exists"
+  }
+}
