@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "title": "Getting Started with API Testing",
+    "body": "API testing is crucial for ensuring your application works correctly. Here are some best practices to follow when testing APIs.",
+    "tags": ["testing", "api", "tutorial"],
+    "published": true,
+    "views": 1523,
+    "likes": 45,
+    "createdAt": "2023-06-01T10:00:00Z",
+    "updatedAt": "2023-06-02T14:30:00Z"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "title": "Understanding RESTful APIs",
+    "body": "REST is an architectural style for designing networked applications. This post explores the key principles of REST.",
+    "tags": ["rest", "api", "architecture"],
+    "published": true,
+    "views": 2341,
+    "likes": 78,
+    "createdAt": "2023-06-05T11:30:00Z",
+    "updatedAt": "2023-06-05T11:30:00Z"
+  },
+  {
+    "id": 3,
+    "userId": 1,
+    "title": "JSON Best Practices",
+    "body": "Working with JSON data requires understanding its structure and common patterns. Learn the best practices here.",
+    "tags": ["json", "data", "best-practices"],
+    "published": true,
+    "views": 987,
+    "likes": 23,
+    "createdAt": "2023-06-10T09:15:00Z",
+    "updatedAt": "2023-06-11T16:45:00Z"
+  },
+  {
+    "id": 4,
+    "userId": 4,
+    "title": "Mock Data for Testing",
+    "body": "Using mock data in testing helps isolate your tests and make them more reliable. Here's how to create effective mock data.",
+    "tags": ["testing", "mock", "data"],
+    "published": false,
+    "views": 456,
+    "likes": 12,
+    "createdAt": "2023-06-15T13:20:00Z",
+    "updatedAt": "2023-06-15T13:20:00Z"
+  },
+  {
+    "id": 5,
+    "userId": 5,
+    "title": "API Documentation Tips",
+    "body": "Good API documentation is essential for developers. This post covers tips for creating clear and comprehensive API docs.",
+    "tags": ["documentation", "api", "tips"],
+    "published": true,
+    "views": 1876,
+    "likes": 56,
+    "createdAt": "2023-06-20T15:45:00Z",
+    "updatedAt": "2023-06-21T10:00:00Z"
+  }
+]

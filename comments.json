@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "postId": 1,
+    "userId": 2,
+    "userName": "jane_smith",
+    "comment": "Great article! Very informative and well-written.",
+    "rating": 5,
+    "helpful": 12,
+    "createdAt": "2023-06-02T11:20:00Z"
+  },
+  {
+    "id": 2,
+    "postId": 1,
+    "userId": 3,
+    "userName": "bob_wilson",
+    "comment": "Thanks for sharing these insights. I learned a lot!",
+    "rating": 4,
+    "helpful": 8,
+    "createdAt": "2023-06-02T15:45:00Z"
+  },
+  {
+    "id": 3,
+    "postId": 2,
+    "userId": 5,
+    "userName": "charlie_brown",
+    "comment": "Excellent explanation of REST principles.",
+    "rating": 5,
+    "helpful": 15,
+    "createdAt": "2023-06-06T09:30:00Z"
+  },
+  {
+    "id": 4,
+    "postId": 2,
+    "userId": 1,
+    "userName": "john_doe",
+    "comment": "Could you elaborate more on HATEOAS?",
+    "rating": 4,
+    "helpful": 3,
+    "createdAt": "2023-06-06T14:10:00Z"
+  },
+  {
+    "id": 5,
+    "postId": 3,
+    "userId": 4,
+    "userName": "alice_johnson",
+    "comment": "Very practical tips. I'll apply these in my projects.",
+    "rating": 5,
+    "helpful": 20,
+    "createdAt": "2023-06-11T10:15:00Z"
+  },
+  {
+    "id": 6,
+    "postId": 3,
+    "userId": 2,
+    "userName": "jane_smith",
+    "comment": "The examples are really helpful!",
+    "rating": 5,
+    "helpful": 9,
+    "createdAt": "2023-06-12T08:25:00Z"
+  },
+  {
+    "id": 7,
+    "postId": 5,
+    "userId": 3,
+    "userName": "bob_wilson",
+    "comment": "Documentation is often overlooked. Good reminder!",
+    "rating": 4,
+    "helpful": 6,
+    "createdAt": "2023-06-21T13:40:00Z"
+  },
+  {
+    "id": 8,
+    "postId": 5,
+    "userId": 5,
+    "userName": "charlie_brown",
+    "comment": "What tools do you recommend for API documentation?",
+    "rating": 4,
+    "helpful": 11,
+    "createdAt": "2023-06-22T16:55:00Z"
+  }
+]

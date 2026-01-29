@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "error": {
+    "code": "VALIDATION_ERROR",
+    "message": "Validation failed",
+    "errors": [
+      {
+        "field": "email",
+        "message": "Email is required",
+        "code": "REQUIRED_FIELD"
+      },
+      {
+        "field": "password",
+        "message": "Password must be at least 8 characters long",
+        "code": "MIN_LENGTH"
+      },
+      {
+        "field": "username",
+        "message": "Username must contain only alphanumeric characters",
+        "code": "INVALID_FORMAT"
+      }
+    ],
+    "timestamp": "2023-06-25T11:00:00Z"
+  }
+}

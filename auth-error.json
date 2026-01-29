@@ -1,0 +1,9 @@
+{
+  "success": false,
+  "error": {
+    "code": "INVALID_CREDENTIALS",
+    "message": "Invalid username or password",
+    "details": "The provided credentials do not match any account in our system",
+    "timestamp": "2023-06-25T10:30:00Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": 2,
+      "username": "jane_smith",
+      "email": "jane.smith@example.com"
+    },
+    {
+      "id": 3,
+      "username": "bob_wilson",
+      "email": "bob.wilson@example.com"
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "perPage": 10,
+    "total": 50,
+    "totalPages": 5,
+    "hasNextPage": true,
+    "hasPreviousPage": false
+  },
+  "links": {
+    "self": "/api/users?page=1&perPage=10",
+    "next": "/api/users?page=2&perPage=10",
+    "first": "/api/users?page=1&perPage=10",
+    "last": "/api/users?page=5&perPage=10"
+  }
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "username": "john_doe",
+    "email": "john.doe@example.com",
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 30,
+    "role": "admin",
+    "active": true,
+    "createdAt": "2023-01-15T10:30:00Z"
+  },
+  {
+    "id": 2,
+    "username": "jane_smith",
+    "email": "jane.smith@example.com",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "age": 28,
+    "role": "user",
+    "active": true,
+    "createdAt": "2023-02-20T14:45:00Z"
+  },
+  {
+    "id": 3,
+    "username": "bob_wilson",
+    "email": "bob.wilson@example.com",
+    "firstName": "Bob",
+    "lastName": "Wilson",
+    "age": 35,
+    "role": "user",
+    "active": false,
+    "createdAt": "2023-03-10T08:15:00Z"
+  },
+  {
+    "id": 4,
+    "username": "alice_johnson",
+    "email": "alice.johnson@example.com",
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "age": 32,
+    "role": "moderator",
+    "active": true,
+    "createdAt": "2023-04-05T16:20:00Z"
+  },
+  {
+    "id": 5,
+    "username": "charlie_brown",
+    "email": "charlie.brown@example.com",
+    "firstName": "Charlie",
+    "lastName": "Brown",
+    "age": 25,
+    "role": "user",
+    "active": true,
+    "createdAt": "2023-05-12T09:00:00Z"
+  }
+]
