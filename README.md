@@ -66,7 +66,21 @@ git clone https://github.com/tungxixoan/tempt-json.git
 cd tempt-json
 ```
 
-You can then serve these files using any local HTTP server:
+#### Run Example Scripts
+
+Try out the example scripts to see how to use the JSON files:
+
+```bash
+# Python example
+python3 example.py
+
+# Node.js example
+node example.js
+```
+
+#### Serve with HTTP Server
+
+You can serve these files using any local HTTP server:
 
 ```bash
 # Using Python
@@ -133,6 +147,21 @@ Each comment object contains:
 - **Learning & Education** - Practice working with JSON and APIs
 - **Prototyping** - Quick data source for proof-of-concepts
 - **Integration Testing** - Use as external data source in tests
+
+## 📁 Example Scripts
+
+The repository includes example scripts demonstrating how to load and use the JSON data:
+
+- **example.py** - Python example showing how to load and process all JSON files
+- **example.js** - Node.js example showing how to load and process all JSON files
+
+Run these examples to see how the data is structured:
+
+```bash
+python3 example.py
+# or
+node example.js
+```
 
 ## 📝 License
 
