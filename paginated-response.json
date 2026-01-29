@@ -14,6 +14,41 @@
       "id": 3,
       "username": "bob_wilson",
       "email": "bob.wilson@example.com"
+    },
+    {
+      "id": 4,
+      "username": "alice_johnson",
+      "email": "alice.johnson@example.com"
+    },
+    {
+      "id": 5,
+      "username": "charlie_brown",
+      "email": "charlie.brown@example.com"
+    },
+    {
+      "id": 6,
+      "username": "david_miller",
+      "email": "david.miller@example.com"
+    },
+    {
+      "id": 7,
+      "username": "emily_davis",
+      "email": "emily.davis@example.com"
+    },
+    {
+      "id": 8,
+      "username": "frank_garcia",
+      "email": "frank.garcia@example.com"
+    },
+    {
+      "id": 9,
+      "username": "grace_martinez",
+      "email": "grace.martinez@example.com"
+    },
+    {
+      "id": 10,
+      "username": "henry_rodriguez",
+      "email": "henry.rodriguez@example.com"
     }
   ],
   "pagination": {
