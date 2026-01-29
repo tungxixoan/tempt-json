@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Pro 15",
+    "description": "High-performance laptop with 15-inch display",
+    "price": 1299.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "brand": "TechBrand",
+    "inStock": true,
+    "quantity": 45,
+    "rating": 4.5,
+    "reviews": 127,
+    "image": "https://example.com/images/laptop-pro-15.jpg",
+    "specs": {
+      "processor": "Intel Core i7",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "15.6 inch"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with long battery life",
+    "price": 29.99,
+    "currency": "USD",
+    "category": "Accessories",
+    "brand": "TechBrand",
+    "inStock": true,
+    "quantity": 234,
+    "rating": 4.2,
+    "reviews": 89,
+    "image": "https://example.com/images/wireless-mouse.jpg",
+    "specs": {
+      "connectivity": "Bluetooth 5.0",
+      "battery": "AA batteries",
+      "dpi": "1600"
+    }
+  },
+  {
+    "id": 3,
+    "name": "USB-C Hub",
+    "description": "Multi-port USB-C hub with HDMI and USB 3.0 ports",
+    "price": 49.99,
+    "currency": "USD",
+    "category": "Accessories",
+    "brand": "ConnectPlus",
+    "inStock": true,
+    "quantity": 156,
+    "rating": 4.7,
+    "reviews": 203,
+    "image": "https://example.com/images/usbc-hub.jpg",
+    "specs": {
+      "ports": "4x USB 3.0, 1x HDMI, 1x USB-C",
+      "powerDelivery": "100W"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Mechanical Keyboard",
+    "description": "RGB mechanical keyboard with cherry switches",
+    "price": 149.99,
+    "currency": "USD",
+    "category": "Accessories",
+    "brand": "KeyMaster",
+    "inStock": false,
+    "quantity": 0,
+    "rating": 4.8,
+    "reviews": 312,
+    "image": "https://example.com/images/mechanical-keyboard.jpg",
+    "specs": {
+      "switches": "Cherry MX Red",
+      "backlight": "RGB",
+      "connectivity": "USB-C"
+    }
+  },
+  {
+    "id": 5,
+    "name": "4K Monitor",
+    "description": "27-inch 4K UHD monitor with HDR support",
+    "price": 399.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "brand": "DisplayTech",
+    "inStock": true,
+    "quantity": 67,
+    "rating": 4.6,
+    "reviews": 178,
+    "image": "https://example.com/images/4k-monitor.jpg",
+    "specs": {
+      "resolution": "3840x2160",
+      "refreshRate": "60Hz",
+      "panelType": "IPS",
+      "hdr": "HDR10"
+    }
+  }
+]
