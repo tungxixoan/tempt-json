@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": 2,
+      "username": "jane_smith",
+      "email": "jane.smith@example.com"
+    },
+    {
+      "id": 3,
+      "username": "bob_wilson",
+      "email": "bob.wilson@example.com"
+    },
+    {
+      "id": 4,
+      "username": "alice_johnson",
+      "email": "alice.johnson@example.com"
+    },
+    {
+      "id": 5,
+      "username": "charlie_brown",
+      "email": "charlie.brown@example.com"
+    },
+    {
+      "id": 6,
+      "username": "david_miller",
+      "email": "david.miller@example.com"
+    },
+    {
+      "id": 7,
+      "username": "emily_davis",
+      "email": "emily.davis@example.com"
+    },
+    {
+      "id": 8,
+      "username": "frank_garcia",
+      "email": "frank.garcia@example.com"
+    },
+    {
+      "id": 9,
+      "username": "grace_martinez",
+      "email": "grace.martinez@example.com"
+    },
+    {
+      "id": 10,
+      "username": "henry_rodriguez",
+      "email": "henry.rodriguez@example.com"
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "perPage": 10,
+    "total": 50,
+    "totalPages": 5,
+    "hasNextPage": true,
+    "hasPreviousPage": false
+  },
+  "links": {
+    "self": "/api/users?page=1&perPage=10",
+    "next": "/api/users?page=2&perPage=10",
+    "first": "/api/users?page=1&perPage=10",
+    "last": "/api/users?page=5&perPage=10"
+  }
+}
